@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://<user>:<password>@cluster-mern-stack-glliw.mongodb.net/travellers?retryWrites=true&w=majority"
+}
